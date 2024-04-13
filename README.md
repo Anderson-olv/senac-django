@@ -1,1 +1,1 @@
-# senac-django
+# Senac Python Web com Django.
